@@ -6,9 +6,9 @@ function basicTeenager(age) {
   }
 =======
 function basicTeenager(age) {
-  if (age === '13<=19 || 13>=19')
+  if (age == range(13, 19) )
   {
-  return true
+  return age
 }
 
 return false
